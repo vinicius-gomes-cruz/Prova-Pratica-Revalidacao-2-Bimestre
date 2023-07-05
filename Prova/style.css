@@ -1,0 +1,120 @@
+:root{
+    --primary: #884A39;
+    --secundary: #C38154;
+    --third: #FFC26F;
+    --fourth: #F9E0BB;
+}
+
+.cabeçalho{
+    background-color: var(--fourth);
+    height: 180px;
+}
+
+.imagem{
+    position: relative;
+    left: 50px;
+    top: 10px;
+}
+.home{
+    position: relative;
+    left: 800px;
+    bottom: 100px;
+    width: 50px;
+    height: 30px;
+    text-align: center;
+    background-color: var(--secundary);
+    color: white;
+    text-transform: uppercase;
+    border-radius: 5px;
+    padding: 15px;
+}
+.Informações{
+    position: relative;
+    left: 950px;
+    bottom: 160px;
+    width: 120px;
+    height: 30px;
+    text-align: center;
+    background-color: var(--secundary);
+    text-transform: uppercase;
+    border-radius: 5px;
+    padding: 15px;
+}
+.Contato{
+    position: relative;
+    left: 1170px;
+    bottom: 220px;
+    width: 80px;
+    height: 30px;
+    text-align: center;
+    background-color: var(--secundary);
+    text-transform: uppercase;
+    border-radius: 5px;
+    padding: 15px;
+}
+
+.imagem2{
+    position: relative;
+    left: 747px;
+    bottom: 502px;
+}
+
+.imagemprod1{
+    position: relative;
+    bottom: 497px;
+}
+
+.imagemprod2{
+    position: relative;
+    bottom: 840px;
+    left: 493px;
+}
+
+.imagemprod3{
+    position: relative;
+    bottom: 1182px;
+    left: 986px;
+}
+
+.footer{
+    background-color: var(--fourth);
+    position: relative;
+    bottom: 1190px;
+    height: 300px;
+}
+.footer .title{
+    top: 10px;
+    position: relative;
+    font-weight: bold;
+    text-align: center;
+}
+
+.Linkedin{
+    position: relative;
+    left: 20%;
+    top: 85px;
+}
+
+.Instagram{
+    position: relative;
+    left: 40%;
+    top: 63px;
+}
+
+.Facebook{
+    position: relative;
+    left: 60%;
+    top: 47px;
+}
+
+.Twitter{
+    position: relative;
+    left: 80%;
+    top: 30px;
+}
+
+.Nome{
+    position: relative;
+    top: 140px;
+    text-align: center;
+}
